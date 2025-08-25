@@ -3,22 +3,25 @@ VERSION:2.0
 PRODID:Gentle Mates Calendar Generator
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DESCRIPTION:Match: M8 vs TBD\nTournament: DraculaN #1\nFormat: Bo3\n\nSource: https://liquipedia.net/counterstrike/Gentle_Mates
+DTSTAMP:20250825T225024Z
+DESCRIPTION:Match: M8 vs TBD\nTournament: DraculaN #1\nFormat: Bo3
 DURATION:PT2H
-LAST-MODIFIED:20250825T223823Z
+LAST-MODIFIED:20250825T225024Z
 LOCATION:Online
 DTSTART:20250829T180000Z
+STATUS:CONFIRMED
 SUMMARY:🎮 M8 vs TBD - Bo3 (DraculaN #1)
 UID:8c7e9d2ec0c179a5bfbe49d1ad144677@gentlematescalendar
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Match: M8 vs Nemiga\nTournament: ECL Season 50: EU Cup #1\nFormat: Bo3\n\nSource: https://liquipedia.net/counterstrike/Gentle_Mates
+DTSTAMP:20250825T225024Z
+DESCRIPTION:Match: M8 vs Nemiga\nTournament: ECL Season 50: EU Cup #1\nFormat: Bo3
 DURATION:PT2H
-LAST-MODIFIED:20250825T223823Z
+LAST-MODIFIED:20250825T225024Z
 LOCATION:Online
 DTSTART:20250826T190000Z
+STATUS:CONFIRMED
 SUMMARY:🎮 M8 vs Nemiga - Bo3 (ECL Season 50: EU Cup #1)
 UID:b7d8ace31c10a7a6ccbed50458897258@gentlematescalendar
 END:VEVENT
 END:VCALENDAR
-# Last updated: Tue Aug 26 00:49:27 CEST 2025
