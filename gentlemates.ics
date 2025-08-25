@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Gentle Mates Calendar Generator
+CALSCALE:GEORGIAN
+BEGIN:VEVENT
+DESCRIPTION:Match: M8 vs TBD\nSource: https://liquipedia.net/counterstrike/Gentle_Mates
+DURATION:PT2H
+LAST-MODIFIED:20250825T222724Z
+LOCATION:Online
+DTSTART:20250829T160000Z
+SUMMARY:🎮 M8 vs TBD - Bo3 (DraculaN #1)
+UID:8c7e9d2ec0c179a5bfbe49d1ad144677@gentlematescalendar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Match: M8 vs Nemiga\nSource: https://liquipedia.net/counterstrike/Gentle_Mates
+DURATION:PT2H
+LAST-MODIFIED:20250825T222724Z
+LOCATION:Online
+DTSTART:20250826T170000Z
+SUMMARY:🎮 M8 vs Nemiga - Bo3 (ECL Season 50: EU Cup #1)
+UID:b7d8ace31c10a7a6ccbed50458897258@gentlematescalendar
+END:VEVENT
+END:VCALENDAR
